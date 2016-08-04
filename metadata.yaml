@@ -1,0 +1,47 @@
+_repo: A-Treatise-of-Human-Nature_4705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+description: "A Treatise of Human Nature is a book by Scottish philosopher David Hume,\
+  \ first published (in parts) from the end of 1738 to 1740.\nThe full title of the\
+  \ Treatise is A Treatise of Human Nature: Being an Attempt to Introduce the Experimental\
+  \ Method of Reasoning into Moral Subjects. It contains the following sections:\n\
+  Book 1: \"Of the Understanding\" – An investigation into human cognition. Important\
+  \ statements of Skepticism.\nBook 2: \"Of the Passions\" – A treatment of emotions\
+  \ and free will.\nBook 3: \"Of Morals\" – A treatment of moral ideas, justice, obligations,\
+  \ benevolence.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4705'
+  wikidata: Q2451675
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcc 'B'
+- GITenberg
+title: A Treatise of Human Nature
+url: http://www.gutenberg.org/ebooks/4705
+wikipedia:
+- https://et.wikipedia.org/wiki/A_Treatise_of_Human_Nature
+- https://fr.wikipedia.org/wiki/Trait%C3%A9_de_la_nature_humaine
+- https://lb.wikipedia.org/wiki/Treatise_of_Human_Nature
+- https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E6%9C%AC%E6%80%A7%E8%AB%96
+- https://pt.wikipedia.org/wiki/Tratado_da_Natureza_Humana
+- https://fi.wikipedia.org/wiki/A_Treatise_of_Human_Nature
+- https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
+- https://it.wikipedia.org/wiki/Trattato_sulla_natura_umana
+- https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%80%A7%E8%AB%96
+- https://ca.wikipedia.org/wiki/Tractat_sobre_la_naturalesa_humana
+- https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84_%EB%B3%B8%EC%84%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%85%BC%EA%B3%A0
+- https://is.wikipedia.org/wiki/A_Treatise_of_Human_Nature
